@@ -1,38 +1,10 @@
 body{
-    color: #4B0082;
-    background: rgb(255, 0, 0);
+    color: #0000FF;
+    background: white;
     margin:0px
-}
 
-header}
-       bordem-bottons: solid 2px  rgb(42,122,228);
-       padding: 20px;
-       font-size: 32px;
-       color: rgb(42,122,228);
 }
+header{
+border-bottom: solid 2px()
 
-section{
-    background: rgb(255,0,0);
-    padding-bottom: 80px;
-    padding-top: 80px;
-}
-
-.chamada{
-    background: rgb(255,0,0);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.chamada-texto{
-    margin-left: 5%;
-}
-
-h1{
-    font-size: 40px;
-}
-
-p{
-    font-size: 20px;
 }
